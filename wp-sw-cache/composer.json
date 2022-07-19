@@ -8,6 +8,8 @@
             "url": "https://github.com/mozilla/wp-sw-manager"
         }
     ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "mozilla/wp-sw-manager": "dev-master"
     }
